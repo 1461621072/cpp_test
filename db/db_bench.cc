@@ -112,7 +112,6 @@ static bool FLAGS_use_existing_db = false;
 static bool FLAGS_reuse_logs = false;
 
 // Use the db with the following name.
-static const char* FLAGS_db = NULL;
 
 namespace leveldb {
 
